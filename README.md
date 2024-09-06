@@ -1,7 +1,7 @@
 ## San Juanyto Backups
 What is this???
  - 
- This is where i backup the complete server files, for my mc server.
+ This is where i backup the server world files
 
 Naming Scheme
 -
